@@ -1,5 +1,7 @@
 # Typed Filter Object  [![CircleCI branch](https://img.shields.io/circleci/project/effervescentia/typed-filter-object/master.svg?maxAge=2592000)]()
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/effervescentia/typed-filter-object.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`filter-object`](https://github.com/jonschlinkert/filter-object.git)
 
